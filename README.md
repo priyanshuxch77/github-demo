@@ -1,3 +1,4 @@
-# github-demo - a new learning!
+# github-demo
 This is my first Git Repository.
-Updated README.md here.
+<br />
+Author - Priyanshu Bahora
